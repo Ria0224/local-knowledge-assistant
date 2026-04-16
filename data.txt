@@ -1,0 +1,4 @@
+LangChain is a framework for building applications using large language models.
+Ollama allows you to run LLMs locally on your machine.
+RAG stands for Retrieval-Augmented Generation.
+It helps models answer questions using external data instead of relying only on internal knowledge.
